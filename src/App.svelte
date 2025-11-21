@@ -1,8 +1,8 @@
 <script lang="ts">
-  import IsTyping from "./lib/IsTyping.svelte";
+  import DynamicStyle from "./lib/DynamicStyle.svelte";
 </script>
 
-<main class="bg-slate-700 w-screen h-screen flex items-center justify-center">
-<IsTyping/>
+<main class=" w-screen h-screen flex items-center justify-center">
+<DynamicStyle/>
 </main>
 
