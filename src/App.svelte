@@ -1,8 +1,8 @@
 <script lang="ts">
-  import DynamicStyle from "./lib/DynamicStyle.svelte";
+  import Each from "./lib/Each.svelte";
 </script>
 
-<main class=" w-screen h-screen flex items-center justify-center">
-<DynamicStyle/>
+<main class=" flex items-center justify-center">
+<Each/>
 </main>
 

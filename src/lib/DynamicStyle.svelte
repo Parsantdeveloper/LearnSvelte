@@ -11,7 +11,7 @@
     {:else}
     Turn Off Light
     {/if}
-</button>
+</button> 
  </div>
  
 </main>
@@ -21,3 +21,4 @@
     background-color: white;
   }
 </style>
+
